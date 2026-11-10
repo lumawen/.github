@@ -18,7 +18,7 @@ Lumawen is building:
 
 | Repo | What's in it |
 | --- | --- |
-| [hexaphonic-pickups](https://github.com/lumawen/hexaphonic-pickups) | Pickup designs, schematics and build guides |
+| [lumawen-pickups](https://github.com/lumawen/lumawen-pickups) | Pickup designs, schematics and build guides |
 | [lumawen-guitar](https://github.com/lumawen/lumawen-guitar) | Guitar body, neck and wiring designs |
 | [lumawen.com](https://github.com/lumawen/lumawen.com) | The website |
 
