@@ -1,9 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lumawen/.github/main/lumawen-logo-700-Bold-white-transparent-square-512x512.png?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lumawen/.github/main/lumawen-logo-700-Bold-black-transparent-square-512x512.png?v=2">
-    <img alt="lumawen" src="https://raw.githubusercontent.com/lumawen/.github/main/lumawen-logo-700-Bold-black-transparent-square-512x512.png?v=2" width="220">
-  </picture>
+  <img alt="lumawen" src="https://raw.githubusercontent.com/lumawen/.github/main/lumawen-logo-700-Bold-black-transparent-square-512x512.png#gh-light-mode-only" width="220">
+  <img alt="lumawen" src="https://raw.githubusercontent.com/lumawen/.github/main/lumawen-logo-700-Bold-white-transparent-square-512x512.png#gh-dark-mode-only" width="220">
 </p>
 
 <p align="center"><b>Guitars and the tools around them, built in the open.</b></p>
